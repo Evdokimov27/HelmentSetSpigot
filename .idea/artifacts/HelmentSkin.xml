@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelmentSkin">
+    <output-path>$PROJECT_DIR$/../123/plugins</output-path>
+    <root id="archive" name="HelmentSkin.jar">
+      <element id="module-output" name="HeadJoin" />
+    </root>
+  </artifact>
+</component>

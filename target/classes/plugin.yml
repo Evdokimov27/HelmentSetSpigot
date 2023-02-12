@@ -1,0 +1,13 @@
+name: HelmentSkin
+version: 1.5
+main: ru.evdokimov.Main
+api-version: 1.16
+depend:
+  - "ArmorEquipEvent"
+commands:
+  headJoinReload:
+    description: hello
+    usage: sarpreload
+    permission: op
+    aliases:
+      - "hj.reload"
