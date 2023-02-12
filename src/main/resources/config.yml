@@ -1,0 +1,24 @@
+messages:
+  reloaded: "&aПлагин перезагружен!"
+
+settings:
+  interval: 10 #в тиках. 1 секунда = 20 тиков
+  head:
+    name: "{player}" #Установить none если не требуется
+    owner: "none" #Установить none если не требуется
+
+message: "Плагин запустился!"
+max_model: 255
+
+# https://m.minecraft.novaskin.me/gallery/model/Player - url скина
+# https://mineskin.org - value и signature скина
+# set_value и set_signature указывать не больше чем max_model
+skin:
+  0:
+    name: "standart_skin"
+  1:
+    name: "ncr_armor"
+  2:
+    name: "iron_armor"
+  3:
+    name: "power_armor"
